@@ -120,19 +120,7 @@ body{
 
 /* mobile screen */
   @media (max-width: 768px) {
-    .row {
-      display: flex;
-      flex-wrap: wrap;
-      width: 50%;
-      align-content: center;
-      padding: 0 5px;
-      text-align: center;
-    }
-  
-    .row img{
-      width: 150px;
-      padding: 0 0 0 10px;
-    }
+    
 
     .banner{
       max-width: 100%;
