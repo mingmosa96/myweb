@@ -157,6 +157,13 @@ body{
       padding-top: 5px;
     }
 
+    .menu-item{
+      
+      width: 100px;
+      height: 150px;
+      margin: 10px;
+    }
+
     .footer{
       height: 40px;
     }
